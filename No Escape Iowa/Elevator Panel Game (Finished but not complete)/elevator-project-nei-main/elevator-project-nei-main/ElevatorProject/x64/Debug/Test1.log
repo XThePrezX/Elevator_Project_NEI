@@ -1,0 +1,12 @@
+﻿  Main.c
+C:\Users\noesc\OneDrive\Desktop\Elevator Project Code\elevator-project-nei\Main.c(7,8): warning C4013: 'time' undefined; assuming extern returning int
+C:\Users\noesc\OneDrive\Desktop\Elevator Project Code\elevator-project-nei\Main.c(11,2): warning C4013: 'intBoard' undefined; assuming extern returning int
+C:\Users\noesc\OneDrive\Desktop\Elevator Project Code\elevator-project-nei\Main.c(32,2): warning C4013: 'printf' undefined; assuming extern returning int
+C:\Users\noesc\OneDrive\Desktop\Elevator Project Code\elevator-project-nei\Main.c(41,12): warning C4013: 'getUPDOWN_INPUTInput' undefined; assuming extern returning int
+C:\Users\noesc\OneDrive\Desktop\Elevator Project Code\elevator-project-nei\Main.c(117,6): warning C4013: 'flashLEDActionUPDOWN' undefined; assuming extern returning int
+C:\Users\noesc\OneDrive\Desktop\Elevator Project Code\elevator-project-nei\Main.c(132,4): warning C4013: 'Sleep' undefined; assuming extern returning int
+C:\Users\noesc\OneDrive\Desktop\Elevator Project Code\elevator-project-nei\Main.c(155,12): warning C4013: 'getButtonInput' undefined; assuming extern returning int
+C:\Users\noesc\OneDrive\Desktop\Elevator Project Code\elevator-project-nei\Main.c(156,4): warning C4013: 'flashLED' undefined; assuming extern returning int
+C:\Users\noesc\OneDrive\Desktop\Elevator Project Code\elevator-project-nei\Main.c(204,18): warning C4013: 'buttonInputChecker' undefined; assuming extern returning int
+C:\Users\noesc\OneDrive\Desktop\Elevator Project Code\elevator-project-nei\Main.c(206,6): warning C4013: 'lightLED' undefined; assuming extern returning int
+  Test1.vcxproj -> C:\Users\noesc\OneDrive\Desktop\Elevator Project Code\elevator-project-nei\x64\Debug\ElevatorProject.exe

@@ -1,0 +1,12 @@
+﻿  Main.c
+C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Measurement Computing\Test1\Main.c(7,8): warning C4013: 'time' undefined; assuming extern returning int
+C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Measurement Computing\Test1\Main.c(11,2): warning C4013: 'intBoard' undefined; assuming extern returning int
+C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Measurement Computing\Test1\Main.c(33,12): warning C4013: 'getUPDOWN_INPUTInput' undefined; assuming extern returning int
+C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Measurement Computing\Test1\Main.c(36,3): warning C4013: 'printf' undefined; assuming extern returning int
+C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Measurement Computing\Test1\Main.c(93,6): warning C4013: 'flashLEDActionUPDOWN' undefined; assuming extern returning int
+C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Measurement Computing\Test1\Main.c(108,4): warning C4013: 'Sleep' undefined; assuming extern returning int
+C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Measurement Computing\Test1\Main.c(125,12): warning C4013: 'getButtonInput' undefined; assuming extern returning int
+C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Measurement Computing\Test1\Main.c(126,4): warning C4013: 'flashLED' undefined; assuming extern returning int
+C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Measurement Computing\Test1\Main.c(174,18): warning C4013: 'buttonInputChecker' undefined; assuming extern returning int
+C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Measurement Computing\Test1\Main.c(176,6): warning C4013: 'lightLED' undefined; assuming extern returning int
+  Test1.vcxproj -> C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Measurement Computing\Test1\x64\Debug\Test1.exe
